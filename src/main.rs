@@ -1,6 +1,5 @@
-mod day1;
+mod day2;
 fn main() {
-    day1::part2();
-    println!("Hello, world!");
-    
+    println!("Start");
+    day2::part2();
 }
